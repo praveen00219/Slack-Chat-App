@@ -97,7 +97,7 @@ const Container = styled.div`
 const Span = styled.div`
   display: flex;
   align-items: center;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: bold;
   color: white;
   margin-left: 26px;
@@ -115,13 +115,13 @@ const Div = styled.div`
   position: relative;
   width: 100%;
 
-  max-height: 20px;
+  max-height: 16px;
 `;
 
 const Card = styled.div`
   position: absolute;
   z-index: 999999;
-  font-size: 14px;
+  font-size: 12px;
   background-color: white;
   width: 60%;
   top: -10px;

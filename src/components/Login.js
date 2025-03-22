@@ -78,9 +78,9 @@ const Container = styled.div`
 `;
 
 const Header = styled.div`
-  width: 8rem;
-  margin: 0 auto;
-  margin-top: 20px;
+  width: 10rem;
+  margin: auto;
+  // margin-top: 20px;
   animation: Rotate 2s linear infinite;
 
   img {
